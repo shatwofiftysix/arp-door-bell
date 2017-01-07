@@ -4,7 +4,7 @@
 # arp-scan must run as root
 
 proc main {} {
-	set verbose 		false
+	set verbose 		  false
 	set notifyAll 		true
 	set offlineAfter	60 ;# approx 60 seconds
 
